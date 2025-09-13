@@ -43,4 +43,4 @@
 ---
 
 > **小知识**：DDG的命名源自儿童游戏“Duck Duck Goose”，寓意轻松无压的搜索体验。  
-> **注意**：因隐私政策差异，DDG目前在中国大陆访问受限。  (建议使用https://[search.gystu.top](https://search.gystu.top/))
+> **注意**：因隐私政策差异，DDG目前在中国大陆访问受限。
