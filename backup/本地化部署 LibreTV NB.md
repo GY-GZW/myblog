@@ -1,4 +1,4 @@
-近日因为LibreTV被他的儿子（MoonTV）给孝死了，站长已恢复所有API（https://github.com/GY-GZW/LibreTV），为防止站长家被SB炸了，所以已经改为本地部署，欢迎测试稳定性https://tv.gystu.top/，密码4875
+近日因为LibreTV被他的儿子（MoonTV）给孝死了，站长已恢复所有API（ https://github.com/GY-GZW/LibreTV ），为防止站长家被SB炸了，所以已经改为本地部署，欢迎测试稳定性 https://tv.gystu.top/ ，密码4875
 
 <img width="1920" height="988" alt="Image" src="https://github.com/user-attachments/assets/9d7325c9-ec14-4400-9387-126679097956" />
 
